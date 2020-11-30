@@ -1,0 +1,41 @@
+body {
+    background-image: url("./kurs.jpg");
+    background-size: cover;
+    color: darkslategrey;
+}
+
+.header {
+    width: 500px;
+    margin: 100px auto;
+    text-align: center;
+    border: 3px solid black;
+    background-color: darkgrey;
+}
+
+nav {
+    background-color: darkgrey ;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+
+.header form {
+    margin: 45px;
+    padding: 10px;
+}
+
+.header button {
+    bottom: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+input {
+    width: 90%;
+    height: 40%;
+    margin: 20px 0px;
+}
+
+.milik {
+    text-align: center;
+}
